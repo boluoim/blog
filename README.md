@@ -1,3 +1,1 @@
-# blog
-
-🌱 Write here
+# Indie Makers Land
